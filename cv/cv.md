@@ -212,7 +212,7 @@ Key
 :    [&#xFF0A;] journal article / [&#xFF0B;] conference proceedings / [&#xFF0D;] workshop proceedings
 
 2023/06 [&#xFF0B;]
-:    **Tarek Saier**, Youxiang Dong, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).
+:    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).
 
 2023/06 [&#xFF0B;]
 :    **Tarek Saier**, Youxiang Dong, Michael Färber: *CoCon: A Data Set on Combined Contextualized Research Artifact Use*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).
