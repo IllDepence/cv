@@ -300,8 +300,8 @@ Project Involvement
 :    **ProData**, Process optimization and predictive maintenance in industry 4.0. BMBF.
 -->
 
-Social Commitment
------------------
+Community Involvement
+---------------------
 
 2019/09&thinsp;–&thinsp;present
 :    Development and maintenance of a free, open source learning software add-on with over 15,000 downloads (Anki - Japanese Pitch Accent).\
