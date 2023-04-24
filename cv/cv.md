@@ -46,7 +46,7 @@ Experience
      Research in the area of *Scholarly Data Mining*. / Thesis supervision. / Lecture *Knowledge Discovery*. / Administration of research group’s IT infrastructure.
 
     Major projects
-      ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers. 150+ GitHub stars. 48 citations.\
+      ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers. 150+ GitHub stars. 50+ citations.\
         ▶ skills: Python, LaTeX, scientific writing, Pandas, Hugging Face
       ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ▶ skills: Python, scikit-learn, cross-functional collaboration
