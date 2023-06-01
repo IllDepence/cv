@@ -42,3 +42,4 @@ $fa-version:    "4.0.3" !default;
 %briefcase-icon:before { @extend %icon; content: $fa-var-briefcase !important; }
 %tasks-icon:before { @extend %icon; content: $fa-var-tasks !important; }
 %tag-icon:before { @extend %icon; content: $fa-var-tag !important; }
+%paper-icon:before { @extend %icon; content: $fa-var-file-text-o !important; }

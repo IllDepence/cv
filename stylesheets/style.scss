@@ -75,11 +75,17 @@ a {
     color: inherit;
 
     // default behavior
-    &[href^="http"] { @extend %external-link-icon; }
+    /* &[href^="http"] { @extend %external-link-icon; } */
     &[href^="mailto:"] { @extend %email-icon; }
     &.phone { @extend %phone-icon; }
     &.mobile { @extend %mobile-icon; }
     &.fax { @extend %fax-icon; }
+
+    &[href*='doi.org'],
+    &[href*='aclanthology.org'],
+    &[href*='arxiv.org/abs'],
+    &[href*='ceur-ws.org'],
+    &[href*='ipsj.ixsq.nii.ac.jp'], { @extend %paper-icon; }
 
     // overriding
     &.social { &:before{ content: "" attr(data-network) "# "; } }

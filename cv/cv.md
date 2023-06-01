@@ -62,7 +62,7 @@ Experience
 
 2022/07&thinsp;–&thinsp;2022/08
 :    **Visiting Researcher**, *National University of Singapore*\
-     Research on scholarly information extraction at the *Web Information Retrieval / NLP*.\
+     Research on scholarly information extraction at the *Web Information Retrieval / NLP* Group.\
      Project outcome published at JCDL 2023.
 
 <!--
@@ -179,6 +179,7 @@ Awards and Scholarships
 :    **Study abroad stipend** - *University of Matsuyama*\
      Scholarship of 30,000 Yen/month.
 
+<!--
 
 Trainings
 ---------
@@ -204,6 +205,8 @@ Trainings
 2013/10
 :    Security of Web Applications from an Attacker's Perspective - *Schutzwerk GmbH*
 
+-->
+
 
 Publications <!--<span style="color: #bbb;">(first author)</span>-->
 ------------
@@ -212,43 +215,43 @@ Key
 :    [&#xFF0A;] journal article / [&#xFF0B;] conference proceedings / [&#xFF0D;] workshop proceedings
 
 2023/06 [&#xFF0B;]
-:    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).
+:    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).&emsp;[&#8203;](https://doi.org/10.48550/arXiv.2303.14957)
 
 2023/06 [&#xFF0B;]
-:    **Tarek Saier**, Youxiang Dong, Michael Färber: *CoCon: A Data Set on Combined Contextualized Research Artifact Use*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).
+:    **Tarek Saier**, Youxiang Dong, Michael Färber: *CoCon: A Data Set on Combined Contextualized Research Artifact Use*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23).&emsp;[&#8203;](https://doi.org/10.48550/arXiv.2303.15193)
 
 2022/06 [&#xFF0D;]
-:    **Tarek Saier**, Meng Luan, Michael Färber: *A Blocking-Based Approach to Enhance Large-Scale Reference Linking*. In: Proceedings of the Workshop on Understanding Literature References in Academic Full Text (ULITE) at JCDL '22, pp. 16–25.
+:    **Tarek Saier**, Meng Luan, Michael Färber: *A Blocking-Based Approach to Enhance Large-Scale Reference Linking*. In: Proceedings of the Workshop on Understanding Literature References in Academic Full Text (ULITE) at JCDL '22, pp. 16–25.&emsp;[&#8203;](https://ceur-ws.org/Vol-3220/paper2.pdf)
 
 2022/06 [&#xFF0B;]
-:     Chifumi Nishioka, Michael Färber, **Tarek Saier**: *The Influence of Author Affiliations on Preprint Citation Count*. In: Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22), pp. 1–8.
+:     Chifumi Nishioka, Michael Färber, **Tarek Saier**: *The Influence of Author Affiliations on Preprint Citation Count*. In: Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22), pp. 1–8.&emsp;[&#8203;](https://doi.org/10.1145/3529372.3530953)
 
 2022/04 [&#xFF0D;]
-:     Michael Färber, Christoph Braun, Nicholas Popovic, **Tarek Saier**, Kristian Noullet: *Which Publications' Metadata Are in Which Bibliographic Databases? A System for Exploration*. In: Proceedings of the 12th International Workshop on Bibliometric-enhanced Information Retrieval (BIR@ECIR 2022), pp. 39–44.
+:     Michael Färber, Christoph Braun, Nicholas Popovic, **Tarek Saier**, Kristian Noullet: *Which Publications' Metadata Are in Which Bibliographic Databases? A System for Exploration*. In: Proceedings of the 12th International Workshop on Bibliometric-enhanced Information Retrieval (BIR@ECIR 2022), pp. 39–44.&emsp;[&#8203;](https://ceur-ws.org/Vol-3230/paper-06.pdf)
 
 2022/02 [&#xFF0D;]
-:     Igor Shapiro, **Tarek Saier**, Michael Färber: *Sequence Labeling for Citation Field Extraction from Cyrillic Script References*. In: Proceedings of the AAAI Workshop on Scientific Document Understanding (SDU@AAAI'22), pp. 69–79.
+:     Igor Shapiro, **Tarek Saier**, Michael Färber: *Sequence Labeling for Citation Field Extraction from Cyrillic Script References*. In: Proceedings of the AAAI Workshop on Scientific Document Understanding (SDU@AAAI'22), pp. 69–79.&emsp;[&#8203;](https://ceur-ws.org/Vol-3164/paper9.pdf)
 
 2021/12 [&#xFF0A;]
-:    **Tarek Saier**, Michael Färber, Tornike Tsereteli: *Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Usage, and Impact*. In: International Journal on Digital Libraries 23, pp. 179–195.
+:    **Tarek Saier**, Michael Färber, Tornike Tsereteli: *Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Usage, and Impact*. In: International Journal on Digital Libraries 23, pp. 179–195.&emsp;[&#8203;](https://doi.org/10.1007/s00799-021-00312-z)
 
 2021/06 [&#xFF0D;]
-:    Johan Krause, Igor Shapiro, **Tarek Saier**, Michael Färber: *Bootstrapping Multilingual Metadata Extraction: A Showcase in Cyrillic*. In: Proceedings of the Second Workshop on Scholarly Document Processing. NAACL 2021, pp. 66–72.
+:    Johan Krause, Igor Shapiro, **Tarek Saier**, Michael Färber: *Bootstrapping Multilingual Metadata Extraction: A Showcase in Cyrillic*. In: Proceedings of the Second Workshop on Scholarly Document Processing. NAACL 2021, pp. 66–72.&emsp;[&#8203;](https://aclanthology.org/2021.sdp-1.8/)
 
 2020/11 [&#xFF0B;]
-:    **Tarek Saier**, Michael Färber: *A Large-Scale Analysis of Cross-lingual Citations in English Papers*. In: Digital Libraries at Times of Massive Societal Transition. ICADL 2020. Lecture Notes in Computer Science, vol 12504.
+:    **Tarek Saier**, Michael Färber: *A Large-Scale Analysis of Cross-lingual Citations in English Papers*. In: Digital Libraries at Times of Massive Societal Transition. ICADL 2020. Lecture Notes in Computer Science, vol 12504.&emsp;[&#8203;](https://doi.org/10.1007/978-3-030-64452-9_11)
 
 2020/04 [&#xFF0B;]
-:    **Tarek Saier**, Michael Färber: *Semantic Modelling of Citation Contexts for Context-Aware Citation Recommendation*. In: Advances in Information Retrieval. ECIR 2020. Lecture Notes in Computer Science, vol 12035.
+:    **Tarek Saier**, Michael Färber: *Semantic Modelling of Citation Contexts for Context-Aware Citation Recommendation*. In: Advances in Information Retrieval. ECIR 2020. Lecture Notes in Computer Science, vol 12035.&emsp;[&#8203;](https://doi.org/10.1007/978-3-030-45439-5_15)
 
 2020/03 [&#xFF0A;]
-:    **Tarek Saier**, Michael Färber: *unarXive: A Large Scholarly Data Set with Publications’ Full-Text, Annotated In-Text Citations, and Links to Metadata*. In: Scientometrics 125, pp. 3085–3108.
+:    **Tarek Saier**, Michael Färber: *unarXive: A Large Scholarly Data Set with Publications’ Full-Text, Annotated In-Text Citations, and Links to Metadata*. In: Scientometrics 125, pp. 3085–3108.&emsp;[&#8203;](https://doi.org/10.1007/s11192-020-03382-z)
 
 2019/04 [&#xFF0D;]
-:    **Tarek Saier**, Michael Färber: *Bibliometric-Enhanced arXiv: A Data Set for Paper-Based and Citation-Based Tasks*. In: Proceedings of the 8th International Workshop on Bibliometric-enhanced Information Retrieval (BIR@ECIR 2019), pp. 14–26.
+:    **Tarek Saier**, Michael Färber: *Bibliometric-Enhanced arXiv: A Data Set for Paper-Based and Citation-Based Tasks*. In: Proceedings of the 8th International Workshop on Bibliometric-enhanced Information Retrieval (BIR@ECIR 2019), pp. 14–26.&emsp;[&#8203;](http://ceur-ws.org/Vol-2345/paper2.pdf)
 
 2018/12 [&#xFF0B;]
-:    Asanobu Kitamoto, Jun Homma, **Tarek Saier**, *IIIF Curation Platform: Next Generation IIIF Open Platform Supporting User-Driven Image Sharing*, IPSJ SIG Computers and the Humanities Symposium 2018, pp. 327–334. (in Japanese)
+:    Asanobu Kitamoto, Jun Homma, **Tarek Saier**, *IIIF Curation Platform: Next Generation IIIF Open Platform Supporting User-Driven Image Sharing*, IPSJ SIG Computers and the Humanities Symposium 2018, pp. 327–334. (in Japanese)&emsp;[&#8203;](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=192484&item_no=1&page_id=13&block_id=8#print_area_detail_start)
 
 <!--
 2018/12
@@ -304,11 +307,11 @@ Community Involvement
 ---------------------
 
 2019/09&thinsp;–&thinsp;present
-:    Development and maintenance of a free, open source learning software add-on with over 15,000 downloads (Anki - Japanese Pitch Accent).\
+:    Development and maintenance of a free, open source learning software add-on with over 15,000 downloads ([Anki - Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)).\
      ▶ skills: Python, Git, SVG, Japanese
 
 2019/11&thinsp;–&thinsp;present
-:    Initiation and organization of a monthly cultural exchange meeting between Japanese and people interested in Japan (japanstammtisch.github.io).\
+:    Initiation and organization of a monthly cultural exchange meeting between Japanese and people interested in Japan ([japanstammtisch.github.io](https://japanstammtisch.github.io/)).\
      ▶ skills: Community management, intercultural communication, Japanese, Jekyll
 
 Languages
