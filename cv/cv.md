@@ -55,14 +55,14 @@ Experience
       ~ *IT administration* - Administration of compute servers, ML technology stack, wikis, etc.\
         ▶ skills: Linux system administration, monitoring, virtualization, problem solving, communication
 
-2022/08&thinsp;–&thinsp;2023/10
+2022/08&thinsp;–&thinsp;2022/10
 :    **Visiting Researcher**, *University of Tokyo*\
-     Research stay at the Miyao Group for *NLP and Computational Linguistics* to establish a collaboration project on scholarly information extraction.\
+     Research on scholarly information extraction at the Miyao Group for *NLP and Computational Linguistics*.\
      Project outcome published in the Special Interest Group on Maths Linguistics.
 
-2022/07&thinsp;–&thinsp;2023/08
+2022/07&thinsp;–&thinsp;2022/08
 :    **Visiting Researcher**, *National University of Singapore*\
-     Research stay at the *Web Information Retrieval / NLP* Group to coordinate scholarly information extraction projects.\
+     Research on scholarly information extraction at the *Web Information Retrieval / NLP*.\
      Project outcome published at JCDL 2023.
 
 <!--
