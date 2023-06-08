@@ -265,6 +265,17 @@ section {
             font-style: italic;
             color: $title-color;
         }
+
+        // loation info
+        q {
+            color: $detail-color;
+        }
+
+        // used to add optional spacing at the end of some
+        // specific dd elements (manually inserted where needed)
+        hr {
+            border: none;
+        }
     }
 
     // jumbotron

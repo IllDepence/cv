@@ -32,36 +32,34 @@ I am a computer scientist and software developer with a passion for languages;
 interested in NLP, digital libraries, and web technologies.
 
 Key strengths
-:    Analytical thinking\
-     Problem solving\
-     Inter-cultural communication\
-     Cross-functional collaboration\
+:    Analytical thinking&emsp;/&emsp;Problem solving\
+     Inter-cultural communication&emsp;/&emsp;Cross-functional collaboration\
      Ability to work in English, German, and Japanese
 
 Experience
 ----------
 
 2019/08&thinsp;–&thinsp;present
-:    **Research Associate**, *Karlsruhe Institut of Technology*\
+:    **Research Associate**, *Karlsruhe Institute of Technology*<q>, Karlsruhe, Germany</q>\
      Research in the area of *Scholarly Data Mining*. / Thesis supervision. / Lecture *Knowledge Discovery*. / Administration of research group’s IT infrastructure.
 
     Major projects
       ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers. 150+ GitHub stars. 50+ citations.\
-        ▶ skills: Python, LaTeX, scientific writing, Pandas, Hugging Face
+        ➟ skills: Python, LaTeX, scientific writing, Hugging Face libraries<hr>
       ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
-        ▶ skills: Python, scikit-learn, cross-functional collaboration
+        ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>
       ~ *ChemKB* - Creation of a science driven collaboration platform for chemists.\
-        ▶ skills: Semantic MediaWiki, knowledge modeling, cross-functional collaboration
+        ➟ skills: Semantic MediaWiki, knowledge modeling, cross-functional collaboration<hr>
       ~ *IT administration* - Administration of compute servers, ML technology stack, wikis, etc.\
-        ▶ skills: Linux system administration, monitoring, virtualization, problem solving, communication
+        ➟ skills: Linux system administration, monitoring, virtualization, problem solving, communication
 
 2022/08&thinsp;–&thinsp;2022/10
-:    **Visiting Researcher**, *University of Tokyo*\
+:    **Visiting Researcher**, *University of Tokyo*<q>, Tokyo, Japan</q>\
      Research on scholarly information extraction at the Miyao Group for *NLP and Computational Linguistics*.\
      Project outcome published in the Special Interest Group on Maths Linguistics.
 
 2022/07&thinsp;–&thinsp;2022/08
-:    **Visiting Researcher**, *National University of Singapore*\
+:    **Visiting Researcher**, *National University of Singapore<q>, Singapore</q>*\
      Research on scholarly information extraction at the *Web Information Retrieval / NLP* Group.\
      Project outcome published at JCDL 2023.
 
@@ -75,12 +73,12 @@ Experience
 -->
 
 2017/10&thinsp;–&thinsp;2018/07
-:    **Research Intern**, <!--*国立情報学研究所 (National Institute of Informatics)*-->*National Institute of Informatics*, Japan\
+:    **Research Intern**, <!--*国立情報学研究所 (National Institute of Informatics)*-->*National Institute of Informatics*<q>, Tokyo, Japan</q>\
     Research in the field of *Digital Humanities*, supervised by Prof. Dr. Asanobu Kitamoto.
 
     Major project
       ~ *IIIF Curation Platform* (backend) - User-driven web platform for the curation of digitized cultural heritage; used in research, lectures (University of Tokyo), and museum exibits (The Museum of Art, Kochi).\
-        ▶ skills: Flask, API development, Docker, IIIF, Web standards, Japanese
+        ➟ skills: Flask, API development, Docker, IIIF, Web standards, Japanese
 
 <!--
 2018/07&thinsp;–&thinsp;2018/09<br>2017/07&thinsp;–&thinsp;2017/08
@@ -93,11 +91,11 @@ Experience
 -->
 
 2017/04&thinsp;–&thinsp;2017/08
-:    **Python Developer**, *geOps e.K.*\
+:    **Python Developer**, *geOps e.K.*<q>, Freiburg, Germany</q>\
     Part-time software development in the field of geoinformatics.
 
 2012/09&thinsp;–&thinsp;2013/03
-:    **IT Security Intern**, *Schutzwerk GmbH*\
+:    **IT Security Intern**, *Schutzwerk GmbH*<q>, Ulm, Germany</q>\
     Developing tools for and supporting IT security audits.
 
 
@@ -105,7 +103,7 @@ Education
 ---------
 
 2019/08&thinsp;–&thinsp;present<!--&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;-->
-:    **PhD**, *Karlsruhe Institut of Technology*\
+:    **PhD**, *Karlsruhe Institut of Technology*<q>, Karlsruhe, Germany</q>\
      Research in the area of *Scholarly Data Mining* in the *Web Science* group of the Institute for Applied Informatics and Formal Description Methods. / Supervised by interim professor Dr. Michael Färber and Prof. Dr. York Sure-Vetter.
 
     Dissertation
@@ -117,7 +115,7 @@ Education
 -->
 
 2014/09&thinsp;–&thinsp;2019/05
-:    **Master of Science**, *Albert Ludwig University of Freiburg*\
+:    **Master of Science**, *Albert Ludwig University of Freiburg*<q>, Freiburg, Germany</q>\
      Graduate studies in computer science with a focus on information systems. / Elective lectures in psychology.
 
     Thesis
@@ -127,14 +125,14 @@ Education
       ~ 1.5
 
 2015/09&thinsp;–&thinsp;2016/09
-:    **Study abroad**, <!--*松山大学 (Matsuyama University)*-->*Matsuyama University*, Japan\
+:    **Study abroad**, <!--*松山大学 (Matsuyama University)*-->*Matsuyama University*<q>, Matsuyama, Japan</q>\
      Graduate course lectures in intercultural communication and linguistics. / Japanese language classes for exchange students. / Supervision of a seminar group in “Game development and programming.”
 
     Final grade
       ~ 89/100
 
 2010/09&thinsp;–&thinsp;2014/08
-:    **Bachelor of Science**, *Hochschule Frutwangen*\
+:    **Bachelor of Science**, *Hochschule Furtwangen*<q>, Furtwangen, Germany</q>\
      Undergraduate studies in computer networking with a focus on IT security. / Additional lectures in Japanese, English and psychology.
 
     Thesis
@@ -307,12 +305,14 @@ Community Involvement
 ---------------------
 
 2019/09&thinsp;–&thinsp;present
-:    Development and maintenance of a free, open source learning software add-on with over 15,000 downloads ([Anki - Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)).\
-     ▶ skills: Python, Git, SVG, Japanese
+:    **Anki - [Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)**\
+     Development and maintenance of a free, open source learning software add-on with over 15,000 downloads.\
+     ➟ skills: Python, Git, SVG, Japanese
 
 2019/11&thinsp;–&thinsp;present
-:    Initiation and organization of a monthly cultural exchange meeting between Japanese and people interested in Japan ([japanstammtisch.github.io](https://japanstammtisch.github.io/)).\
-     ▶ skills: Community management, intercultural communication, Japanese, Jekyll
+:    **[Cultural exchange meetup](https://japanstammtisch.github.io/)**\
+     Initiation and organization of a monthly cultural exchange meetup for Japanese and people interested in Japan.\
+     ➟ skills: Community management, intercultural communication, Japanese, Jekyll
 
 Languages
 ---------
