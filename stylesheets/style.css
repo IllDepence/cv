@@ -457,7 +457,15 @@ section dd dt {
   font-style: italic;
   color: #595959;
 }
-/* line 272, ../../stylesheets/style.scss */
+/* line 270, ../../stylesheets/style.scss */
+section dd q {
+  color: #aaaaaa;
+}
+/* line 276, ../../stylesheets/style.scss */
+section dd hr {
+  border: none;
+}
+/* line 283, ../../stylesheets/style.scss */
 section.jumbotron {
   margin-top: 1.27778em;
   width: 100%;
@@ -465,17 +473,17 @@ section.jumbotron {
   margin-right: 0;
   margin-bottom: 1.27778em;
 }
-/* line 273, ../../stylesheets/style.scss */
+/* line 284, ../../stylesheets/style.scss */
 section.jumbotron h1, section.jumbotron h2 {
   display: none;
 }
-/* line 281, ../../stylesheets/style.scss */
+/* line 292, ../../stylesheets/style.scss */
 section.jumbotron, section.jumbotron p {
   text-align: center;
 }
 
 /* Footer */
-/* line 289, ../../stylesheets/style.scss */
+/* line 300, ../../stylesheets/style.scss */
 footer {
   width: 100%;
   float: right;
@@ -486,23 +494,23 @@ footer {
   margin-bottom: 1.27778em;
   text-align: center;
 }
-/* line 296, ../../stylesheets/style.scss */
+/* line 307, ../../stylesheets/style.scss */
 footer li {
   display: inline;
 }
-/* line 296, ../../stylesheets/style.scss */
+/* line 307, ../../stylesheets/style.scss */
 footer li:before {
   content: '\25CF';
   padding: 10px;
   color: #006378;
 }
-/* line 297, ../../stylesheets/style.scss */
+/* line 308, ../../stylesheets/style.scss */
 footer p {
   margin-top: 1.27778em;
 }
 
 @media screen {
-  /* line 305, ../../stylesheets/style.scss */
+  /* line 316, ../../stylesheets/style.scss */
   #qrcode {
     display: none;
   }
@@ -517,12 +525,12 @@ footer p {
     padding: 0;
     /* too bad @page is not well supported */
   }
-  /* line 336, ../../stylesheets/style.scss */
+  /* line 347, ../../stylesheets/style.scss */
   body {
     min-width: 55.11111em;
   }
 
-  /* line 338, ../../stylesheets/style.scss */
+  /* line 349, ../../stylesheets/style.scss */
   #qrcode {
     width: 20.45455%;
     float: left;
@@ -530,33 +538,33 @@ footer p {
     max-width: 5.55556em;
   }
 
-  /* line 345, ../../stylesheets/style.scss */
+  /* line 356, ../../stylesheets/style.scss */
   h2, h3 {
     page-break-after: avoid;
   }
 
-  /* line 346, ../../stylesheets/style.scss */
+  /* line 357, ../../stylesheets/style.scss */
   dt {
     page-break-after: avoid !important;
   }
 
-  /* line 347, ../../stylesheets/style.scss */
+  /* line 358, ../../stylesheets/style.scss */
   dd, p {
     page-break-before: avoid !important;
   }
 
-  /* line 348, ../../stylesheets/style.scss */
+  /* line 359, ../../stylesheets/style.scss */
   dl, dt, dd, p {
     orphans: 3;
     widows: 3;
   }
 
-  /* line 349, ../../stylesheets/style.scss */
+  /* line 360, ../../stylesheets/style.scss */
   dt, dd, p {
     page-break-inside: avoid !important;
   }
 
-  /* line 350, ../../stylesheets/style.scss */
+  /* line 361, ../../stylesheets/style.scss */
   .page-breaker {
     page-break-before: always;
   }
