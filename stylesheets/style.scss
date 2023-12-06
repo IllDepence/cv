@@ -21,7 +21,7 @@ body {
 /* Libertinus (successor of Linux Libertine O) */
 @font-face {
   font-family: 'Libertinus Serif';
-  src: url('fonts/LibertinusSerif-Regular.woff2') format('woff2');
+  src: url('fonts/LibertinusSerif-Regular.woff2') format('woff2');  /* /home/tarek/proj/cv/ */
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -47,10 +47,14 @@ body {
   font-style: italic;
   font-display: swap;
 }
-/* /Libertinus (successor of Linux Libertine O) */
+/* Noto Serif */
+@font-face {
+  font-family: 'Noto Serif JP';
+  src: url('fonts/NotoSerifJP-VF.otf') format('opentype');  /* /home/tarek/proj/cv/  */
+}
 
 body { font-family: 'Linux Libertine O', 'Libertinus Serif', serif; }
-/* body { font-family: "Linux Libertine O", "Noto Serif CJK JP", serif; } */
+/* body { font-family: 'Noto Serif JP', serif; } */
 strong { font-weight: bold; }
 em { font-style: italic; }
 h1 { @include adjust-font-size-to($h1-font-size, $h1-line-multiple); }
