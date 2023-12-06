@@ -81,7 +81,7 @@ Experience
     Research in the field of *Digital Humanities*, supervised by Prof. Dr. Asanobu Kitamoto.
 
     Major project
-      ~ *IIIF Curation Platform* (backend) - User-driven web platform for the curation of digitized cultural heritage; used in research, lectures (University of Tokyo), and museum exibits (The Museum of Art, Kochi).\
+      ~ *IIIF Curation Platform* (backend) - User-driven web platform for the curation of digitized cultural heritage; used in research, lectures (University of Tokyo), and museum exhibits (The Museum of Art, Kochi).\
         ➟ result: conference paper co-authorship, academic award by the Japan Society for Digital Archives \
         ➟ skills: Flask, API development, Docker, IIIF, Web standards, Japanese
 
@@ -161,7 +161,7 @@ Awards and Scholarships
 
 2022/11
 :    **2022 Academic Award (Systems&thinsp;&middot;&thinsp;Platforms)** - *Japan Society for Digital Archives*\
-     For the IIIF Curation Plattform project.
+     For the IIIF Curation Platform project.
 
 <!--https://www.nii.ac.jp/news/award/2022/1125-2.html-->
 <!--https://digitalarchivejapan.org/10712/-->
