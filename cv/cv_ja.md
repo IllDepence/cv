@@ -2,8 +2,8 @@
 lang: ja
 # title: born March 19, 1990 in Rottweil, Germany
 title: SAIER Tarek - コンピューターサイエンスト・ソフトウェア開発者  # only used as page title
-firstname: <ruby>SAIER<rt>ザヤ</rt></ruby>
-lastname: <ruby>Tarek<rt>タレク</rt></ruby>
+firstname: <ruby>Tarek<rt>タレク</rt></ruby>
+lastname: <ruby>SAIER<rt>ザヤ</rt></ruby>
 photo: images/picture.png
 qrcode:
 # contact: https://orcid.org/0000-0001-5028-0109
