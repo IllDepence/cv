@@ -321,7 +321,7 @@ Project Involvement
 :    **[日独交流会](https://japanstammtisch.github.io/)**\
      日本人と日本に興味のある人々のための月一回の文化交流会の開始と運営。\
      ➟ 成果：50人以上の参加者。会のウェブサイトは「カールスルーエ 日本」のGoogle検索順位で1位\
-     ➟ スキル：Python、Jekyll、Git、SVG、日本語
+     ➟ スキル：コミュニティ作り、異文化こっミュニケーション、日本語、Jekyll
 
 言語
 ----

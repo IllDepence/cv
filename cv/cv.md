@@ -43,15 +43,19 @@ Experience
 
     Major projects
       ~ *PhD research* - Data mining and information extraction from scientific publications.\
-        ➟ skills: NLP/ML (scikit-learn, Hugging Face libraries, LLM deployment/use, etc.) scientific writing, public speaking<hr>
-      ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers. 150+ GitHub stars. 50+ citations.\
+        ➟ result: 2 journal articles, 4 conference papers (all first author, peer reviewed)\
+        ➟ skills: NLP/ML (sklearn, Hugging Face libs, LLM deployment/use, etc.) scientific writing, public speaking<hr>
+      ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers.\
+        ➟ result: 150+ GitHub stars, 50+ citations, widespread use\
         ➟ skills: Python, LaTeX, data curation and dissemination, work on HPCs.<hr>
 <!--      ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>-->
       ~ *ChemKB* - Creation of a science driven collaboration platform for chemists.\
+        ➟ result: successful creation of the platform\
         ➟ skills: Semantic MediaWiki, knowledge modeling, cross-functional collaboration<hr>
       ~ *IT administration* - Administration of compute servers, ML technology stack, wikis, etc.\
-        ➟ skills: Linux system administration, monitoring, virtualization, problem solving, communication
+        ➟ result: new GPU server, Wiki migration, continuous adaption to changes of exterior systems\
+        ➟ skills: Linux system administration, Docker, problem solving, communication
 
 2022/08&thinsp;–&thinsp;2022/10
 :    **Visiting Researcher**, *University of Tokyo*<q>, Tokyo, Japan</q>\
@@ -78,6 +82,7 @@ Experience
 
     Major project
       ~ *IIIF Curation Platform* (backend) - User-driven web platform for the curation of digitized cultural heritage; used in research, lectures (University of Tokyo), and museum exibits (The Museum of Art, Kochi).\
+        ➟ result: conference paper co-authorship, academic award by the Japan Society for Digital Archives \
         ➟ skills: Flask, API development, Docker, IIIF, Web standards, Japanese
 
 <!--
@@ -306,12 +311,14 @@ Community Involvement
 
 2019/09&thinsp;–&thinsp;present
 :    **Anki - [Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)**\
-     Development and maintenance of a free, open source learning software add-on with over 20,000 downloads.\
+     Development and maintenance of a free, open source learning software add-on.\
+     ➟ result: Over 20,000 downloads\
      ➟ skills: Python, Git, SVG, Japanese
 
 2019/11&thinsp;–&thinsp;present
 :    **[Cultural exchange meetup](https://japanstammtisch.github.io/)**\
      Initiation and organization of a monthly cultural exchange meetup for Japanese and people interested in Japan.\
+     ➟ result: Over 50 participants, meetup website is the top Google result for “カールスルーエ 日本” (“Karlsruhe Japan”)\
      ➟ skills: Community management, intercultural communication, Japanese, Jekyll
 
 Languages
