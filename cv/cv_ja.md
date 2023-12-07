@@ -50,8 +50,8 @@ footer: "[GitHub](http://github.com/IllDepence)　|　[ORCID](https://orcid.org/
         ➟ スキル：Python、LaTeX、大型データセットのキュレーション・提供、HPC上での作業<hr>
 <!--      ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>-->
-      ~ 【ChemKB】- 化学者向けの協力型論文キュレーションプラットフォームの開発。\
-        ➟ 成果：プラットフォーム開発の成功\
+      ~ 【ChemKB】- 化学者向けの協力型科学データキュレーションプラットフォームの開発。\
+        ➟ 成果：プラットフォーム開発の成功、光触媒による二酸化炭素還元の分野での利用\
         ➟ スキル：Semantic MediaWiki、知識モデリング、部門間協力<hr>
       ~ 【IT管理】- ラボのコンピューティングサーバー、MLスタック、Wikiなどの保守管理\
         ➟ 成果：GPUサーバー導入、Wikiシステムのマイグレーション、外部関連システム変更への対応\

@@ -50,8 +50,8 @@ Experience
         ➟ skills: Python, LaTeX, data curation and dissemination, work on HPCs.<hr>
 <!--      ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>-->
-      ~ *ChemKB* - Creation of a science driven collaboration platform for chemists.\
-        ➟ result: successful creation of the platform\
+      ~ *ChemKB* - A community-driven platform for curating and linking chemical research findings.\
+        ➟ result: successful platform creation, pilot application in the area of photocatalytic CO2 conversion\
         ➟ skills: Semantic MediaWiki, knowledge modeling, cross-functional collaboration<hr>
       ~ *IT administration* - Administration of compute servers, ML technology stack, wikis, etc.\
         ➟ result: new GPU server, Wiki migration, continuous adaption to changes of exterior systems\
