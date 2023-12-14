@@ -43,7 +43,7 @@ footer: "[GitHub](http://github.com/IllDepence)　|　[ORCID](https://orcid.org/
 
     主なプロジェクト
       ~ 【博士研究】- 学術論文からのデータマイニングと情報抽出。\
-        ➟ 成果：国際ジャーナル論文2本、国際学会論文4本（全て査読付き、責任著者）\
+        ➟ 成果：国際ジャーナル論文2本、国際学会論文5本（全て査読付き、責任著者）\
         ➟ スキル：NLP/ML（sklearn、HFライブラリ、LLM運用等）、論文執筆、パブリックスピーキング<hr>
       ~ 【unarXive】- LaTeX論文から生成された論文200万本のNLPコーパス。\
         ➟ 成果：GitHubスター150以上、被引用数50以上、広範囲での利用\
@@ -60,12 +60,12 @@ footer: "[GitHub](http://github.com/IllDepence)　|　[ORCID](https://orcid.org/
 2022/08&thinsp;–&thinsp;2022/10
 :    **研究滞在**、東京大学大学院情報理工学系研究科宮尾研究室<q>、東京都、日本</q>\
      学術論文からの情報抽出の研究。\
-     研究プロジェクトの成果はSpecial Interest Group on Maths Linguisticsで公開。
+     研究プロジェクトの成果は国際学会「ECIR 2024」で掲載とSIGMathLingで公開。
 
 2022/07&thinsp;–&thinsp;2022/08
 :    **研究滞在**、シンガポール国立大学コンピューティング学部Web情報検索/NLP研究室<q>、シンガポール</q>\
      学術論文からの情報抽出の研究。\
-     研究プロジェクトの成果は国際学会「JCDL 2023」で発表。
+     研究プロジェクトの成果は国際学会「JCDL 2023」で掲載。
 
 <!--
 2016/08&thinsp;–&thinsp;2018/10
@@ -217,6 +217,9 @@ Trainings
 凡例
 :    [&#x29F3;] ジャーナル / [&#x29F2;] 学会論文集 / [&#x25CB;] ワークショップ
 
+2024/03 [&#x29F2;]
+:    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Proceedings of the 46th European Conference on Information Retrieval (ECIR '24), in press.
+
 2023/06 [&#x29F2;]
 :    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23), pp. 66–70.&emsp;[&#8203;](https://doi.org/10.1109/JCDL57899.2023.00020)
 
@@ -233,12 +236,12 @@ Trainings
 :     Michael Färber, Christoph Braun, Nicholas Popovic, **Tarek Saier**, Kristian Noullet: *Which Publications' Metadata Are in Which Bibliographic Databases? A System for Exploration*. In: Proceedings of the 12th International Workshop on Bibliometric-enhanced Information Retrieval (BIR@ECIR 2022), pp. 39–44.&emsp;[&#8203;](https://ceur-ws.org/Vol-3230/paper-06.pdf)
 
 2022/02 [&#x25CB;]
-:     Igor Shapiro, **Tarek Saier**, Michael Färber: *Sequence Labeling for Citation Field Extraction from Cyrillic Script References*. In: Proceedings of the AAAI Workshop on Scientific Document Understanding (SDU@AAAI'22), pp. 69–79.&emsp;[&#8203;](https://ceur-ws.org/Vol-3164/paper9.pdf)
+:     Igor Shapiro, **Tarek Saier**, Michael Färber: *Sequence Labeling for Citation Field Extraction from Cyrillic Script References*. In: Proceedings of the AAAI Workshop on Scientific Document Understanding (SDU@AAAI'22), pp. 69–79.&emsp;[&#8203;](https://ceur-ws.org/Vol-3164/paper9.pdf)\
+\
+\
 
 2021/12 [&#x29F3;]
-:    **Tarek Saier**, Michael Färber, Tornike Tsereteli: *Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Usage, and Impact*. In: International Journal on Digital Libraries 23, pp. 179–195.&emsp;[&#8203;](https://doi.org/10.1007/s00799-021-00312-z)\
-\
-\
+:    **Tarek Saier**, Michael Färber, Tornike Tsereteli: *Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Usage, and Impact*. In: International Journal on Digital Libraries 23, pp. 179–195.&emsp;[&#8203;](https://doi.org/10.1007/s00799-021-00312-z)
 
 2021/06 [&#x25CB;]
 :    Johan Krause, Igor Shapiro, **Tarek Saier**, Michael Färber: *Bootstrapping Multilingual Metadata Extraction: A Showcase in Cyrillic*. In: Proceedings of the Second Workshop on Scholarly Document Processing. NAACL 2021, pp. 66–72.&emsp;[&#8203;](https://aclanthology.org/2021.sdp-1.8/)

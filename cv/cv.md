@@ -43,7 +43,7 @@ Experience
 
     Major projects
       ~ *PhD research* - Data mining and information extraction from scientific publications.\
-        ➟ result: 2 journal articles, 4 conference papers (all first author, peer reviewed)\
+        ➟ result: 2 journal articles, 5 conference papers (all first author, peer reviewed)\
         ➟ skills: NLP/ML (sklearn, Hugging Face libs, LLM deployment/use, etc.) scientific writing, public speaking<hr>
       ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers.\
         ➟ result: 150+ GitHub stars, 50+ citations, widespread use\
@@ -60,7 +60,7 @@ Experience
 2022/08&thinsp;–&thinsp;2022/10
 :    **Visiting Researcher**, *University of Tokyo*<q>, Tokyo, Japan</q>\
      Research on scholarly information extraction at the Miyao Group for *NLP and Computational Linguistics*.\
-     Project outcome published in the Special Interest Group on Maths Linguistics.
+     Project outcome published at ECIR 2024 and in the Special Interest Group on Maths Linguistics.
 
 2022/07&thinsp;–&thinsp;2022/08
 :    **Visiting Researcher**, *National University of Singapore<q>, Singapore</q>*\
@@ -112,7 +112,7 @@ Education
      *Web Science* group of the Institute for Applied Informatics and Formal Description Methods. Supervised by interim professor Dr. Michael Färber and Prof. Dr. York Sure-Vetter.
 
     Dissertation
-      ~ “Data Mining and Information Extraction Methods for Large-Scale, High Quality Representations of STEM Publications”
+      ~ “Data Mining and Information Extraction Methods for Large-Scale High Quality Representations of Scientific Publications” (preliminary)
 
 <!--
     Final grade
@@ -216,6 +216,9 @@ Publications <!--<span style="color: #bbb;">(first author)</span>-->
 
 Key
 :    [&#x29F3;] journal article / [&#x29F2;] conference proceedings / [&#x25CB;] workshop proceedings
+
+2024/03 [&#x29F2;]
+:    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Proceedings of the 46th European Conference on Information Retrieval (ECIR '24), in press.
 
 2023/06 [&#x29F2;]
 :    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23), pp. 66–70.&emsp;[&#8203;](https://doi.org/10.1109/JCDL57899.2023.00020)
