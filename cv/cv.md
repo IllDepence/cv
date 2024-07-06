@@ -13,9 +13,9 @@ email: tareksaier@gmail.com
 # email: tarek.saier@kit.edu
 phone:
 address:
-  city: Karlsruhe,
+  city: Osaka,
 #  city: Scheffelstr. 14, 76135 Karlsruhe
-  country: Germany
+  country: Japan
 settings:
   protect-email: false
   protect-mobile: true
@@ -37,7 +37,11 @@ as well as communication facets such as inter-cultural and cross-functional comm
 Experience
 ----------
 
-2019/08&thinsp;–&thinsp;present
+2024/07&thinsp;–&thinsp;present
+:    **Machine Learning Engineer**, *Helpfeel Inc.*<q>, Kyoto, Japan</q>\
+     Software engineering with a focus on machine learning applications for information retrieval.
+
+2019/08&thinsp;–&thinsp;2024/01
 :    **Research Associate**, *Karlsruhe Institute of Technology*<q>, Karlsruhe, Germany</q>\
      Research in the area of *Data Mining and Information Extraction*. / Thesis supervision. / Lecture *“Knowledge Discovery”*. / Administration of research group’s IT infrastructure.
 
@@ -46,7 +50,7 @@ Experience
         ➟ result: 2 journal articles, 5 conference papers (all first author, peer reviewed)\
         ➟ skills: NLP/ML (sklearn, Hugging Face libs, LLM deployment/use, etc.) scientific writing, public speaking<hr>
       ~ *unarXive* - 2M document NLP corpus generated from LaTeX papers.\
-        ➟ result: 150+ GitHub stars, 50+ citations, widespread use\
+        ➟ result: 250+ GitHub stars, 75+ citations, widespread use\
         ➟ skills: Python, LaTeX, data curation and dissemination, work on HPCs.<hr>
 <!--      ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>-->
@@ -63,7 +67,7 @@ Experience
      Project outcome published at ECIR 2024 and in the Special Interest Group on Maths Linguistics.
 
 2022/07&thinsp;–&thinsp;2022/08
-:    **Visiting Researcher**, *National University of Singapore<q>, Singapore</q>*\
+:    **Visiting Researcher**, *National University of Singapore*<q>, Singapore</q>\
      Research on scholarly information extraction at the *Web Information Retrieval / NLP* Group.\
      Project outcome published at JCDL 2023.
 
@@ -107,17 +111,15 @@ Experience
 Education
 ---------
 
-2019/08&thinsp;–&thinsp;present<!--&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;-->
+2019/08&thinsp;–&thinsp;2024/06<!--&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;-->
 :    **PhD**, *Karlsruhe Institut of Technology*<q>, Karlsruhe, Germany</q>\
      *Web Science* group of the Institute for Applied Informatics and Formal Description Methods. Supervised by interim professor Dr. Michael Färber and Prof. Dr. York Sure-Vetter.
 
     Dissertation
-      ~ “Data Mining and Information Extraction Methods for Large-Scale High Quality Representations of Scientific Publications” (preliminary)
+      ~ “Data Mining and Information Extraction Methods for Large-Scale High Quality Representations of Scientific Publications”
 
-<!--
     Final grade
-      ~ Summa cum laude
--->
+      ~ magna cum laude (1.0)
 
 2014/09&thinsp;–&thinsp;2019/05
 :    **Master of Science**, *Albert Ludwig University of Freiburg*<q>, Freiburg, Germany</q>\
@@ -315,10 +317,10 @@ Community Involvement
 2019/09&thinsp;–&thinsp;present
 :    **Anki - [Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)**\
      Development and maintenance of a free, open source learning software add-on.\
-     ➟ result: Over 20,000 downloads\
+     ➟ result: Over 25,000 downloads\
      ➟ skills: Python, Git, SVG, Japanese
 
-2019/11&thinsp;–&thinsp;present
+2019/11&thinsp;–&thinsp;2024/04
 :    **[Cultural exchange meetup](https://japanstammtisch.github.io/)**\
      Initiation and organization of a monthly cultural exchange meetup for Japanese and people interested in Japan.\
      ➟ result: Over 50 participants, meetup website is the top Google result for “カールスルーエ 日本” (“Karlsruhe Japan”)\
