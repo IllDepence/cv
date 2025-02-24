@@ -220,7 +220,7 @@ Key
 :    [&#x29F3;] journal article / [&#x29F2;] conference proceedings / [&#x25CB;] workshop proceedings
 
 2024/03 [&#x29F2;]
-:    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Proceedings of the 46th European Conference on Information Retrieval (ECIR '24), in press.
+:    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Advances in Information Retrieval. ECIR 2024. Lecture Notes in Computer Science, vol 14609. &emsp;[&#8203;](https://doi.org/10.1007/978-3-031-56060-6_17)
 
 2023/06 [&#x29F2;]
 :    **Tarek Saier**, Johan Krause, Michael Färber: *unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network*. In: Proceedings of the 23rd ACM/IEEE Joint Conference on Digital Libraries (JCDL '23), pp. 66–70.&emsp;[&#8203;](https://doi.org/10.1109/JCDL57899.2023.00020)
