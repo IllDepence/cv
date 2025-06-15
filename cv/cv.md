@@ -113,7 +113,7 @@ Education
 
 2019/08&thinsp;–&thinsp;2024/06<!--&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;-->
 :    **PhD**, *Karlsruhe Institut of Technology*<q>, Karlsruhe, Germany</q>\
-     *Web Science* group of the Institute for Applied Informatics and Formal Description Methods. Supervised by interim professor Dr. Michael Färber and Prof. Dr. York Sure-Vetter.
+     *Web Science* group of the Institute for Applied Informatics and Formal Description Methods. Supervised by Prof. Dr. Michael Färber and Prof. Dr. York Sure-Vetter.
 
     Dissertation
       ~ “Data Mining and Information Extraction Methods for Large-Scale High Quality Representations of Scientific Publications”
