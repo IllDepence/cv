@@ -210,7 +210,7 @@ body:after {
 }
 /* line 56, ../../stylesheets/style.scss */
 body {
-  font-family: 'Linux Libertine O', 'Libertinus Serif', 'Noto Serif JP', serif;
+  font-family: 'Linux Libertine O', 'Libertinus Serif', 'Noto Serif JP', 'Noto Serif CJK JP', serif;
 }
 
 /* body { font-family: 'Noto Serif JP', serif; } */
