@@ -317,7 +317,7 @@ Community Involvement
 2019/09&thinsp;–&thinsp;present
 :    **Anki - [Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)**\
      Development and maintenance of a free, open source learning software add-on.\
-     ➟ result: Over 25,000 downloads\
+     ➟ result: Over 35,000 downloads\
      ➟ skills: Python, Git, SVG, Japanese
 
 2019/11&thinsp;–&thinsp;2024/04
