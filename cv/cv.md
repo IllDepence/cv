@@ -55,7 +55,7 @@ Experience
 <!--      ~ *KIGLIS* - Exploration of ML applications for fiber optic infrastructure maintenance (OTDR).\
         ➟ skills: Python, scikit-learn, cross-functional collaboration<hr>-->
       ~ *ChemKB* - A community-driven platform for curating and linking chemical research findings.\
-        ➟ result: successful platform creation, pilot application in the area of photocatalytic CO2 conversion\
+        ➟ result: 1 journal article, pilot application in the area of photocatalytic CO2 conversion\
         ➟ skills: Semantic MediaWiki, knowledge modeling, cross-functional collaboration<hr>
       ~ *IT administration* - Administration of compute servers, ML technology stack, wikis, etc.\
         ➟ result: new GPU server, Wiki migration, continuous adaption to changes of exterior systems\
@@ -218,6 +218,9 @@ Publications <!--<span style="color: #bbb;">(first author)</span>-->
 
 Key
 :    [&#x29F3;] journal article / [&#x29F2;] conference proceedings / [&#x25CB;] workshop proceedings
+
+2025/07 [&#x29F3;]
+:    Charlotte Neidiger, **Tarek Saier**, Kai Kühn, Victor Larignon, Michael Färber, Claudia Bizzarri, Helena Šimek Tosino, Laura Holzhauer, Michael Erdmann, An Nguyen, Dean Harvey, Pierre Tremouilhac, Claudia Kramer, Daniel Hansch, Fabian Schönle, Jana Alpin, Maximilian Hartmann, Jérome Wagner, Nicole Jung, Stefan Bräse: **Implementation of an Open Chemistry Knowledge Base with a Semantic Wiki. In: Journal of Cheminformatics 17:99.&emsp;[&#8203;](https://doi.org/10.1186/s13321-025-01037-w)
 
 2024/03 [&#x29F2;]
 :    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Advances in Information Retrieval. ECIR 2024. Lecture Notes in Computer Science, vol 14609. &emsp;[&#8203;](https://doi.org/10.1007/978-3-031-56060-6_17)
