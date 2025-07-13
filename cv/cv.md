@@ -220,7 +220,7 @@ Key
 :    [&#x29F3;] journal article / [&#x29F2;] conference proceedings / [&#x25CB;] workshop proceedings
 
 2025/07 [&#x29F3;]
-:    Charlotte Neidiger, **Tarek Saier**, Kai Kühn, Victor Larignon, Michael Färber, Claudia Bizzarri, Helena Šimek Tosino, Laura Holzhauer, Michael Erdmann, An Nguyen, Dean Harvey, Pierre Tremouilhac, Claudia Kramer, Daniel Hansch, Fabian Schönle, Jana Alpin, Maximilian Hartmann, Jérome Wagner, Nicole Jung, Stefan Bräse: **Implementation of an Open Chemistry Knowledge Base with a Semantic Wiki. In: Journal of Cheminformatics 17:99.&emsp;[&#8203;](https://doi.org/10.1186/s13321-025-01037-w)
+:    Charlotte Neidiger, **Tarek Saier**, Kai Kühn, Victor Larignon, Michael Färber, Claudia Bizzarri, Helena Šimek Tosino, Laura Holzhauer, Michael Erdmann, An Nguyen, Dean Harvey, Pierre Tremouilhac, Claudia Kramer, Daniel Hansch, Fabian Schönle, Jana Alpin, Maximilian Hartmann, Jérome Wagner, Nicole Jung, Stefan Bräse: *Implementation of an Open Chemistry Knowledge Base with a Semantic Wiki*. In: Journal of Cheminformatics 17:99.&emsp;[&#8203;](https://doi.org/10.1186/s13321-025-01037-w)
 
 2024/03 [&#x29F2;]
 :    **Tarek Saier**, Mayumi Ohta, Takuto Asakura and Michael Färber: *HyperPIE: Hyperparameter Information Extraction from Scientific Publications*. In: Advances in Information Retrieval. ECIR 2024. Lecture Notes in Computer Science, vol 14609. &emsp;[&#8203;](https://doi.org/10.1007/978-3-031-56060-6_17)
